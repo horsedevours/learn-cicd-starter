@@ -1,4 +1,4 @@
-![This is great!](https://github.com/horsedevours/learn-cicd-started/actions/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/horsedevours/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/horsedevours/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
